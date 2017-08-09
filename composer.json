@@ -1,0 +1,11 @@
+{
+    "name": "chenpeng/mi",
+    "type": "project",
+    "authors": [
+        {
+            "name": "chen peng",
+            "email": "1195326130@qq.com"
+        }
+    ],
+    "require": {}
+}
